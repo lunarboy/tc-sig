@@ -1,0 +1,42 @@
+.tcSig {
+	font: 400 13px/18px "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+	color: #333;
+	margin: 0 0 10px;
+}
+
+.tcSig a {
+	color: #333;
+}
+
+hr {
+	border: 2px solid #333;
+	margin-bottom: 10px;
+}
+
+.big_tclogo {
+	letter-spacing: -0.03em;
+	font-size: 15px;
+	line-height: 18px;
+} 
+
+.bold {
+	font-weight: bold;
+}
+
+.darkgray {
+	color: #333;
+}
+
+.alg_logo {
+	font-size: 15px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #333;
+}
+
+/* DOC ONLY */
+.label {
+	font: 1em "Courier New", Courier, mono;
+	margin-bottom: 20px;
+	margin-top: 40px;
+}
